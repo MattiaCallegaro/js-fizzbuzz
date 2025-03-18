@@ -15,7 +15,7 @@ proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro program
 
 Buon lavoro e buon divertimento!
 
-<!-- Inserisco una variabile che permetta all'utente di inserire un valore numerico ( da 1 a 100) -->
+<!-- Inserisco una variabile valore numerico ( da 1 a 100) -->
 <!-- Inserisco una variabile Fizz che sostituisce il numero con i numeri multipli di 3 -->
 <!-- Inserisco una variabile Buzz che sostituisce il numero con i multipli di 5 -->
 <!-- Inserisco una variabile FizzBuzz che sostituisce il numero con i multipli di 3 e di 5 -->
